@@ -5,15 +5,15 @@
 <table>
   <thead>
       <td style="text-align:left;">Assigned</td>
-      <td style="text-align:left;">Monday 9 September 2024</td>
+      <td style="text-align:left;">Monday 4 November 2024</td>
   </thead>
   <tfoot>
       <td style="text-align:left; color: red;">Deadline</td>
-      <td style="text-align:left;">Friday 13 September 2024</td>
+      <td style="text-align:left;">Friday 15 November 2024</td>
   </tfoot>
 </table>
 
-![Lab 8 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab08_solution/blob/main/graphics/gatsby.png)
+![Lab 8 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab08/blob/main/graphics/gatsby.png)
 
 ## Project Goals
 - Learn the basics of JAMstack architecture using Gatsby.
@@ -40,11 +40,11 @@ These assignment learning outcomes contribute to the following course learning o
 1. Create a new site:
     -  Create a new site with the name "gatsby-blog".
     - Please try to create your own style blog. However, if you'd like to start with a classic template, you can try:
-        ```gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog```
+    `gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
 
 ### Part 2: Customiz the Gatsby Site.
 - Create Blog Posts:
-    - Create at least three blog posts using Markdown. 
+    - Create at least **three** blog posts using Markdown. 
     - Feel free to select your topics as long as they match your needs.
     - Please include your `.md` files under the `gatsby-blog/content/blog` directory.
 
