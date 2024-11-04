@@ -1,5 +1,5 @@
 
-# Lab 02 - JAMstack - Gatsby
+# Lab 08 - JAMstack - Gatsby
 
 ## Timeline
 <table>
